@@ -1,6 +1,14 @@
 
+html{
+    position: relative;
+}
+body {
+    margin-top : 30px;
+    margin-bottom: 50px;
+}
 .jumbotron img{
     width: 200px;
+    margin-bottom: 50px;
     border: 5px solid #666;
 }
  hr{
@@ -26,6 +34,5 @@ p{
 }
 .navbar-brand{
     font-size: 20px;
-    color: #000 !important;
     font-weight: bold;
 }

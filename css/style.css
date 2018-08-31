@@ -12,7 +12,7 @@ body {
     background-image: url('../img/bg-header.jpg');
     background-size:cover;
     background-attachment: fixed;
-    background-position: 0 -50px;
+    background-position: center;
     color: #eaeaea;
 }
 .fa{
